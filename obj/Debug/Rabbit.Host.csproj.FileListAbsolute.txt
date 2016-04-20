@@ -1,0 +1,6 @@
+C:\Dev\Rabbit.Host\bin\Debug\Rabbit.Host.exe.config
+C:\Dev\Rabbit.Host\bin\Debug\Rabbit.Host.exe
+C:\Dev\Rabbit.Host\bin\Debug\Rabbit.Host.pdb
+C:\Dev\Rabbit.Host\obj\Debug\Rabbit.Host.csprojResolveAssemblyReference.cache
+C:\Dev\Rabbit.Host\obj\Debug\Rabbit.Host.exe
+C:\Dev\Rabbit.Host\obj\Debug\Rabbit.Host.pdb
