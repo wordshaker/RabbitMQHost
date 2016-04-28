@@ -13,7 +13,3 @@ rabbitmqctl -n nameofnode stop_app
 rabbitmqctl -n nameofnode join_cluster othernode@local-host
 
 rabbitmqctl -n nameofnode  start_app
-
-# To Do 
-+ Update RabbitMQ
-+ Load Balance Nodes
