@@ -1,4 +1,4 @@
-# RabbitMQhost
+# RabbitMQHost
 
 # To Run a Node
 
