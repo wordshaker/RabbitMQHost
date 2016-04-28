@@ -1,6 +1,4 @@
-# RabbitMQExperiment
-Run 3 nodes, update, load balance.
-
+# RabbitMQhost
 
 # To Run a Node
 
