@@ -27,7 +27,7 @@ namespace Rabbit.Host
         {
             CreateTempDirectory();
 
-            var rabbitMqInstallationPath = Directory.GetDirectories(@"C:\Program Files (x86)\RabbitMQ Server\", "rabbitmq_server-*").OrderByDescending(x => x).First();
+            var rabbitMqInstallationPath = Directory.GetDirectories(@"C:\Program Files\RabbitMQ Server\", "rabbitmq_server-*").OrderByDescending(x => x).First();
 
             var processStartInfo = new ProcessStartInfo()
             {
